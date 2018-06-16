@@ -25,6 +25,9 @@
             </plugins>
         </pluginManagement>
     </build>
+    <modules>
+        <module>presentation-service</module>
+    </modules>
 
 
 </project>
